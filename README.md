@@ -47,6 +47,6 @@ fid	cd_identificador	cd_identificador_tema_equipamento	nm_tema_equipamento	cd_id
 equipamento_saude_ubs_posto_centro.120694	120694	6	SAUDE	0	SEM REDE	Sem descrição	45	Unidade Básica de Saúde	Atendimento básico em Pediatria, Ginecologia, Clínica Geral, Enfermagem e Odontologia. Principais serviços oferecidos: consultas médicas, inalações, injeções, curativos, vacinas, coleta de exames laboratoriais, tratamento odontológico, encaminhamentos par	5	UBS/POSTO DE SAÚDE/CENTRO DE SAÚDE	O PRIMEIRO CONTATO DO PACIENTE COM O SUS.	1	Municipal	Administração municipal	740	V ESPERANCA-UBS CASSIO BITTENCOURT FILHO	R MARIA CARLOTA, 631	V ESPERANCA	03647000		29576630	
 
 
-Conheça o GEOSampa <a href>"https://metadados.geosampa.prefeitura.sp.gov.br/geonetwork/srv/por/catalog.search#/home">GEOSampa</a> e seu Catálogo de Metadados <a href>"https://metadados.geosampa.prefeitura.sp.gov.br/geonetwork/srv/por/catalog.search#/home">Catálogo de Metadados</a>!
+Conheça também: \nGEOSampa <a href>"https://metadados.geosampa.prefeitura.sp.gov.br/geonetwork/srv/por/catalog.search#/home"</a> \nCatálogo de Metadados <a href>"https://metadados.geosampa.prefeitura.sp.gov.br/geonetwork/srv/por/catalog.search#/home"</a>
 
 
