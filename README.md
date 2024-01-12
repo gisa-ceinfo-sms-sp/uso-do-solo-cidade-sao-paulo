@@ -1,5 +1,5 @@
 # uso-do-solo-cidade-sao-paulo
-<p>Mapa dinâmico com predominância de uso do solo no município de São Paulo e as delimitaçõe territoriais de gestão utilizadas pela SMS-SP.</p>
+<p><n></n>Mapa dinâmico com predominância de uso do solo no município de São Paulo e as delimitaçõe territoriais de gestão utilizadas pela SMS-SP.</n></p>
 
 <p>Construído a partir de geowebservices, formato que disponibiliza os dados para leitura de forma ininterrupta e em suas versões atualizadas (vigentes no serviço), permitindo assim a utilização em outros sistemas de consulta, scripts e sites.</p>
 
@@ -11,13 +11,16 @@
 
 municipio | subprefeitura | distrito_municipal | tpcl_uso_predominancia | Residencial e Comercio/servicos | equipamento_saude_coordenadoria_regional | equipamento_saude_supervisao_tecnica | equipamento_saude_abrangencia_ubs | equipamento_saude_cobertura_familia | equipamento_saude_ubs_posto_centro
 
-![image](https://github.com/gisa-ceinfo-sms-sp/uso-do-solo-cidade-sao-paulo/assets/75272641/8eaa9fdb-d80c-4324-a7c3-9cff31dda121)
+![image](https://github.com/gisa-ceinfo-sms-sp/uso-do-solo-cidade-sao-paulo/assets/75272641/111ccfa6-eb7f-4d5a-b36e-6ab38e6db1f7)
+![image](https://github.com/gisa-ceinfo-sms-sp/uso-do-solo-cidade-sao-paulo/assets/75272641/6ad00c3f-2dd2-435b-a13f-2c375a8ced48)
+![image](https://github.com/gisa-ceinfo-sms-sp/uso-do-solo-cidade-sao-paulo/assets/75272641/bd53bcec-e5aa-46e5-b9ef-d6283b5e99f0)
+![image](https://github.com/gisa-ceinfo-sms-sp/uso-do-solo-cidade-sao-paulo/assets/75272641/d6522e19-55ec-49b7-9ca6-8f8113e7f22e)
+![image](https://github.com/gisa-ceinfo-sms-sp/uso-do-solo-cidade-sao-paulo/assets/75272641/11e380a2-6eef-4cda-a8f4-20fefdfe33be)
+![image](https://github.com/gisa-ceinfo-sms-sp/uso-do-solo-cidade-sao-paulo/assets/75272641/8ab6bc50-0f5f-442b-9678-3efcf348a229)
+![image](https://github.com/gisa-ceinfo-sms-sp/uso-do-solo-cidade-sao-paulo/assets/75272641/86f25530-47e9-417b-bc1a-621dd816391d)
+![image](https://github.com/gisa-ceinfo-sms-sp/uso-do-solo-cidade-sao-paulo/assets/75272641/84622f85-7292-4b7b-abf0-4fc8b1701cab)
+![image](https://github.com/gisa-ceinfo-sms-sp/uso-do-solo-cidade-sao-paulo/assets/75272641/b386e4e4-4c22-47ee-beb0-05b4650d8dc0)
 
-![image](https://github.com/gisa-ceinfo-sms-sp/uso-do-solo-cidade-sao-paulo/assets/75272641/094e4ea7-a490-4cd9-98e0-21d1a4c50db8)
-
-![image](https://github.com/gisa-ceinfo-sms-sp/uso-do-solo-cidade-sao-paulo/assets/75272641/b9c053ac-286a-439b-9bba-53d17aaf6046)
-
-![image](https://github.com/gisa-ceinfo-sms-sp/uso-do-solo-cidade-sao-paulo/assets/75272641/270c855b-521b-4215-a139-5f8909e3dc47)
 
 <p>Conheça também: </p>
 <p>GEOSampa <a href>"https://metadados.geosampa.prefeitura.sp.gov.br/geonetwork/srv/por/catalog.search#/home"</a> </p>
