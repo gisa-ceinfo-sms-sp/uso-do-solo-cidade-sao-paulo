@@ -1,5 +1,5 @@
 # uso-do-solo-cidade-sao-paulo
-<p><n></n>Mapa dinâmico com predominância de uso do solo no município de São Paulo e as delimitaçõe territoriais de gestão utilizadas pela SMS-SP.</n></p>
+<p><n>Mapa dinâmico com predominância de uso do solo no município de São Paulo e as delimitaçõe territoriais de gestão utilizadas pela SMS-SP.</n></p>
 
 <p>Construído a partir de geowebservices, formato que disponibiliza os dados para leitura de forma ininterrupta e em suas versões atualizadas (vigentes no serviço), permitindo assim a utilização em outros sistemas de consulta, scripts e sites.</p>
 
