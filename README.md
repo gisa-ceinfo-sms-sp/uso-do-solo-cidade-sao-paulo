@@ -3,7 +3,7 @@
 
 <p>Construído a partir de geowebservices, formato que disponibiliza os dados para leitura de forma ininterrupta e em suas versões atualizadas (vigentes no serviço), permitindo assim a utilização em outros sistemas de consulta, scripts e sites.</p>
 
-<p>Link para acessar o mapa: [http://wms.geosampa.prefeitura.sp.gov.br/geoserver/geoportal/wms?service=WMS&version=1.3.0&request=GetMap&layers=MapaBase_Politico,uso_predominante_solo_2021_60,equipamento_saude_coordenadoria_regional,equipamento_saude_supervisao_tecnica,equipamento_saude_abrangencia_ubs,equipamento_saude_cobertura_familia,equipamento_saude_ubs_posto_centro&styles=&bbox=341000,7390000,345000,7400000&width=1850&height=850&srs=EPSG:31983&format=application/openlayers)]</p>
+<p>Link para acessar o mapa: http://wms.geosampa.prefeitura.sp.gov.br/geoserver/geoportal/wms?service=WMS&version=1.3.0&request=GetMap&layers=MapaBase_Politico,uso_predominante_solo_2021_60,equipamento_saude_coordenadoria_regional,equipamento_saude_supervisao_tecnica,equipamento_saude_abrangencia_ubs,equipamento_saude_cobertura_familia,equipamento_saude_ubs_posto_centro&styles=&bbox=341000,7390000,345000,7400000&width=1850&height=850&srs=EPSG:31983&format=application/openlayers)</p>
 
 <p><em>Para alterar a extensão da "tela do mapa"Basta copiar o link acima e alterar os valores "width=1850" e "height=850". </p></em>
 
